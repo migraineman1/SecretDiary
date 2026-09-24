@@ -1,0 +1,19 @@
+type: hyperskill
+title: Secret Diary
+language: English
+summary: "<p>Keeping diaries is a popular thing across the world. You can take notes\
+  \ about your daily experiences and personal feelings or write the goals you want\
+  \ to achieve. In this project, you will create your diary application secured with\
+  \ a password to prevent others from accessing it.</p>"
+programming_language: Kotlin
+content:
+  - Secret Diary
+additional_files:
+  - name: settings.gradle
+    visible: true
+  - name: build.gradle
+    visible: true
+  - name: gradle.properties
+    visible: true
+mode: Study
+yaml_version: 5
