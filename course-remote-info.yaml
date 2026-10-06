@@ -3,23 +3,23 @@ hyperskill_project:
   ide_files: https://hyperskill.org/api/projects/547/additional-files/additional_files.json
   is_template_based: false
   use_ide: true
-update_date: "Thu, 24 Sep 2026 18:33:45 UTC"
+update_date: "Mon, 05 Oct 2026 22:07:42 UTC"
 stages:
   - id: 3152
     step: 53021
     is_completed: true
   - id: 3153
     step: 53022
-    is_completed: false
+    is_completed: true
   - id: 3154
     step: 53023
-    is_completed: false
+    is_completed: true
   - id: 3155
     step: 53024
-    is_completed: false
+    is_completed: true
   - id: 3156
     step: 53025
-    is_completed: false
+    is_completed: true
 topics:
   0:
     - title: Introduction to UI/UX

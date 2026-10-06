@@ -1,4 +1,17 @@
 <resources>
     <string name="app_name">Secret Diary</string>
     <string name="empty_input">Empty or blank input cannot be saved</string>
+    <string name="diary_hint">Dear Diary...</string>
+    <string name="_button">Undo</string>
+    <string name="save_button">Save</string>
+    <string name="confirm_undo">Remove last note</string>
+    <string name="confirm_undo_message">Do you really want to remove the last writing? This operation cannot be
+        undone!
+    </string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="secret_diary">Secret Diary</string>
+    <string name="pin_hint">Enter PIN</string>
+    <string name="login">Log In</string>
+    <string name="error_incorrect_password">Wrong PIN!</string>
 </resources>

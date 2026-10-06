@@ -34,11 +34,32 @@ files:
     visible: true
     learner_created: false
   - name: test/java/org/hyperskill/secretdiary/internals/AbstractUnitTest.kt
+    visible: true
     learner_created: false
   - name: test/java/org/hyperskill/secretdiary/internals/CustomClockSystemShadow.kt
+    visible: true
     learner_created: false
   - name: test/java/org/hyperskill/secretdiary/Stage4UnitTest.kt
+    visible: true
     learner_created: false
+  - name: src/main/java/ExperimentalCode.kt
+    visible: true
+    learner_created: true
+  - name: src/test/kotlin/kotlinx/datetime/CourseInstantCompat.kt
+    visible: true
+    learner_created: true
+  - name: src/main/java/org/hyperskill/secretdiary/LoginActivity.kt
+    visible: true
+    learner_created: true
+  - name: src/main/res/layout/activity_login.xml
+    visible: true
+    learner_created: true
+  - name: test/java/org/hyperskill/secretdiary/Stage5UnitTest.kt
+    visible: true
+    learner_created: true
 feedback_link: https://hyperskill.org/projects/547/stages/3155/implement#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 05 Oct 2026 23:51:38 UTC"
 record: -1

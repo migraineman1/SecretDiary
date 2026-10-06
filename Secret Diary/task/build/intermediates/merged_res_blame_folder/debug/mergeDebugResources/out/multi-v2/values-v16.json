@@ -4,7 +4,7 @@
             "outputFile": "org.hyperskill.secretdiary.Secret_Diary-task-mergeDebugResources-30:/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/home/charles-perry/.gradle/caches/8.10/transforms/93e0e0d43c8c0f9b33bcbb8f178b00ab/transformed/appcompat-1.7.0/res/values-v16/values-v16.xml",
+                    "source": "/home/charles-perry/.gradle/caches/8.13/transforms/4ab6a19cd7197715dcc764c6db4edefc/transformed/appcompat-1.7.0/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

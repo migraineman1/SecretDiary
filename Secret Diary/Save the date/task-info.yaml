@@ -34,11 +34,17 @@ files:
     visible: true
     learner_created: false
   - name: test/java/org/hyperskill/secretdiary/internals/AbstractUnitTest.kt
+    visible: true
     learner_created: false
   - name: test/java/org/hyperskill/secretdiary/internals/CustomClockSystemShadow.kt
+    visible: true
     learner_created: false
   - name: test/java/org/hyperskill/secretdiary/Stage2UnitTest.kt
+    visible: true
     learner_created: false
 feedback_link: https://hyperskill.org/projects/547/stages/3153/implement#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 29 Sep 2026 14:13:59 UTC"
 record: -1

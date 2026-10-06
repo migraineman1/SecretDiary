@@ -34,13 +34,27 @@ files:
     visible: true
     learner_created: false
   - name: test/java/org/hyperskill/secretdiary/internals/AbstractUnitTest.kt
+    visible: true
     learner_created: false
   - name: test/java/org/hyperskill/secretdiary/internals/CustomClockSystemShadow.kt
+    visible: true
     learner_created: false
   - name: test/java/org/hyperskill/secretdiary/Stage4UnitTest.kt
+    visible: true
     learner_created: false
   - name: test/java/org/hyperskill/secretdiary/Stage5UnitTest.kt
+    visible: true
     learner_created: false
+  - name: src/main/res/layout/activity_login.xml
+    visible: true
+    learner_created: true
+  - name: src/main/java/org/hyperskill/secretdiary/LoginActivity.kt
+    visible: true
+    learner_created: true
 feedback_link: https://hyperskill.org/projects/547/stages/3156/implement#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: Well done! You've finished the project. Select a new project on <a href="https://hyperskill.org/projects">Hyperskill</a>
+    to continue learning.
+  time: "Tue, 06 Oct 2026 00:22:07 UTC"
 record: -1

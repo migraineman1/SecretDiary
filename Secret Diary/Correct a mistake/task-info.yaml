@@ -40,5 +40,5 @@ files:
   - name: test/java/org/hyperskill/secretdiary/Stage3UnitTest.kt
     learner_created: false
 feedback_link: https://hyperskill.org/projects/547/stages/3154/implement#comment
-status: Unchecked
+status: Solved
 record: -1

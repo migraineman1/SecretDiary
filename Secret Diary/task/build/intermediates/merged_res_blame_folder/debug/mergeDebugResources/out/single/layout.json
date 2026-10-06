@@ -1,6 +1,10 @@
 [
     {
-        "merged": "org.hyperskill.secretdiary.Secret_Diary-task-mergeDebugResources-31:/layout/activity_main.xml",
-        "source": "org.hyperskill.secretdiary.Secret_Diary-task-main-34:/layout/activity_main.xml"
+        "merged": "/home/charles-perry/.gradle/daemon/8.13/org.hyperskill.secretdiary.Secret_Diary-task-mergeDebugResources-31:/layout/activity_main.xml",
+        "source": "/home/charles-perry/.gradle/daemon/8.13/org.hyperskill.secretdiary.Secret_Diary-task-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "org.hyperskill.secretdiary.Secret_Diary-task-mergeDebugResources-31:/layout/activity_login.xml",
+        "source": "org.hyperskill.secretdiary.Secret_Diary-task-main-34:/layout/activity_login.xml"
     }
 ]

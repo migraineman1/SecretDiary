@@ -4,7 +4,7 @@
             "outputFile": "org.hyperskill.secretdiary.Secret_Diary-task-mergeDebugResources-30:/values-xlarge-v4/values-xlarge-v4.xml",
             "map": [
                 {
-                    "source": "/home/charles-perry/.gradle/caches/8.10/transforms/93e0e0d43c8c0f9b33bcbb8f178b00ab/transformed/appcompat-1.7.0/res/values-xlarge-v4/values-xlarge-v4.xml",
+                    "source": "/home/charles-perry/.gradle/caches/8.13/transforms/4ab6a19cd7197715dcc764c6db4edefc/transformed/appcompat-1.7.0/res/values-xlarge-v4/values-xlarge-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7",
                         "startColumns": "4,4,4,4,4,4",

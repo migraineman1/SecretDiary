@@ -31,8 +31,7 @@ files:
     visible: true
     learner_created: false
   - name: test/java/org/hyperskill/secretdiary/internals/AbstractUnitTest.kt
-    learner_created: false
-  - name: test/java/org/hyperskill/secretdiary/Stage1UnitTest.kt
+    visible: true
     learner_created: false
   - name: build.gradle
     visible: true
